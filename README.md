@@ -18,7 +18,7 @@ This project is a **Machine Learning (ML)-powered web application** designed to 
 📊 Models Used
 Diabetes Prediction
 Heart Disease Prediction
-Breast Cancer Prediction
+Kidney Disease Prediction
 
 🛠 Future Improvements
 Expanding to include predictions for more diseases.
